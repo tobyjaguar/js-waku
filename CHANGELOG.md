@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- `waitForRemotePeer` wait for a Relay peer by default instead of Relay and Store.fix
+
 ### Removed
 
 - No more `assert` usage.
